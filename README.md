@@ -40,16 +40,9 @@ or normal service etc.
 4. Check http://localhost:4000/
 
 ## Production link
-Fing our working project on https://railway-commodity.vercel.app/
+Fing our working project on https://railway-project-dd8e.vercel.app/
 
 ## Details:
-- Course: **CSD-327 Software Engineering LAB**
-- Date: **6th May 2021**
-- Submitted to: **Dr. Dharmendra Prasad Mahto**
-
-## Contributors:
-- Gitanjali(185063)
-- Shashank Sharma(185077)
-- Piyush Chauhan(185097)
-- Sabhya Sood(185098)
+- Course: ****Software Engineering Lab****
+- Date: **17th Nov 2024**
 
